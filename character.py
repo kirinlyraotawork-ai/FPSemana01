@@ -24,6 +24,7 @@ for personagem in lista_grande:
         personagem_maior_defesa[1] = personagem[1][1]
 
 print(lista_grande)
-print("Ataque" ,personagem_maior_ataque[0] ,personagem_maior_ataque[1], "\nDefesa",personagem_maior_defesa[0] ,personagem_maior_defesa[1] )
+print("Ataque" ,personagem_maior_ataque[0], personagem_maior_ataque[1])
+print("Defesa",personagem_maior_defesa[0] ,personagem_maior_defesa[1])
 #print("Ataque " ,personagem_maior_ataque[0] ,personagem_maior_ataque[1])
 
